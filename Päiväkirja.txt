@@ -1,0 +1,4 @@
+18.1.2021
+
+- Lisättiin Githubiin pakattu kansio, index.html ja main.css tiedostot.
+- Teimme muutoksia index.html tiedostoon, johon lisättiin logo ja aloitimme alisivujen tekemisen.
