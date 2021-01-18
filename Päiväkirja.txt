@@ -2,3 +2,4 @@
 
 - Lisättiin Githubiin pakattu kansio, index.html ja main.css tiedostot.
 - Teimme muutoksia index.html tiedostoon, johon lisättiin logo ja aloitimme alisivujen tekemisen.
+- Saimme lisättyä "Yhteystiedot" alisivulle kaikkien projektin jäsenten sähköpostiosoitteen.
